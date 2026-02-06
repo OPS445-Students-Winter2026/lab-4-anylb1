@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: YOUR_SENECA_ID
+# Author ID: fbless-anyl
 
 def is_digits(sobj):
     for char in sobj:

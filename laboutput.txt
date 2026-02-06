@@ -2,7 +2,7 @@
 OPS445 Lab Report - System Information for running ./CheckLab4.py
 =================================================================
     User login name: fbless-anyl
-    Linux system name: mtrx-node05pd.dcm.senecacollege.ca
+    Linux system name: mtrx-node04pd.dcm.senecacollege.ca
     Python executable: /usr/bin/python3
     Python version:  3.6.8 (default, Nov 14 2023, 16:29:52) 
 [GCC 4.8.5 20150623 (Red Hat 4.8.5-44)]
